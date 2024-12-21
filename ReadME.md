@@ -2,7 +2,7 @@
 
 <center><span style="font-family:Palatino; font-size:22px;"><i> Did you know that attracting a new customer costs <span style="color:#DC143C;">five times</span> as much as keeping an existing one?</i></span> </center>
 
-![churn 1.png](attachment:7a47ebdd-9f53-4bf0-bc99-b56b8050a874.png)
+Acess App From Here :  https://ann-classification-churnn.streamlit.app/
 
 <a id = "1" ></a>
 # <span style="font-family:serif; font-size:28px;"> 1. Introduction</span>
